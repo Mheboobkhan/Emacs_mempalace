@@ -2,7 +2,7 @@ import subprocess
 import requests
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "llama3.1:8b"   # ✅ corrected
+MODEL = ""   # Add your model name here
 
 
 def search_mempalace(query):
