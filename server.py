@@ -8,7 +8,7 @@ import time
 app = FastAPI()
 
 OLLAMA_URL = "http://localhost:11434/api/generate"
-MODEL = "llama3.1:8b"
+MODEL = "" #add your model name here
 
 
 # -------- Request Schema (gptel/OpenAI format) --------
