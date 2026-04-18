@@ -101,3 +101,6 @@ The system remembers your code patterns
 Recalls past decisions
 Connects notes with implementation
 
+📜 License
+
+MIT
