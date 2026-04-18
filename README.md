@@ -39,15 +39,15 @@ Instead of answering each prompt in isolation, the system:
 
 
 User (Emacs)
-↓
+->
 gptel (client)
-↓
+->
 FastAPI / Uvicorn (middleware)
-↓
+->
 MemPalace (memory retrieval)
-↓
+->
 Ollama (LLM)
-↓
+->
 Response back to Emacs
 
 
